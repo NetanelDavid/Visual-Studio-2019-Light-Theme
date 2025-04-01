@@ -18,6 +18,10 @@
 			}
 		]
 	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/NetanelDavid/Visual-Studio-2019-Light-Theme"
+	},
 	"__metadata": {
 		"size": 53746
 	}
